@@ -1,0 +1,8 @@
+apiVersion: v1
+metadata:
+  askId: poc
+  caAgileId: poc
+  projectKey: com.optum.prvonboarding:onboarding-ui
+  projectFriendlyName: onboarding-ui
+  componentType: CODE
+  targetQG: GATE_00
