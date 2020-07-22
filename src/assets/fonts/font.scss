@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "UHCSans-Regular";
+  font-style: normal;
+  font-weight: 300;
+  src: url("./assets/fonts/uhc-sans/uhcsans-regular-webfont.eot");
+  src: url("./assets/fonts/uhc-sans/uhcsans-regular-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/uhc-sans/uhcsans-regular-webfont.woff2") format("woff2"),
+    url("./assets/fonts/uhc-sans/uhcsans-regular-webfont.woff") format("woff"),
+    url("./assets/fonts/uhc-sans/uhcsans-regular-webfont.ttf")
+      format("truetype"),
+    url("./assets/fonts/uhc-sans/uhcsans-regular-webfont.svg#uhc_sansregular")
+      format("svg");
+}
+
+@font-face {
+  font-family: "UHCSans-SemiBold";
+  font-style: normal;
+  font-weight: 500;
+  src: url("./assets/fonts/uhc-sans/uhcsans-semibold-webfont.eot");
+  src: url("./assets/fonts/uhc-sans/uhcsans-semibold-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/uhc-sans/uhcsans-semibold-webfont.woff2")
+      format("woff2"),
+    url("./assets/fonts/uhc-sans/uhcsans-semibold-webfont.woff") format("woff"),
+    url("./assets/fonts/uhc-sans/uhcsans-semibold-webfont.ttf")
+      format("truetype"),
+    url("./assets/fonts/uhc-sans/uhcsans-semibold-webfont.svg#uhc_sanssemibold")
+      format("svg");
+}
+
+@font-face {
+  font-family: "UHCSans-Medium";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./assets/fonts/uhc-sans/uhcsans-medium-webfont.eot");
+  src: url("./assets/fonts/uhc-sans/uhcsans-medium-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/uhc-sans/uhcsans-medium-webfont.woff2") format("woff2"),
+    url("./assets/fonts/uhc-sans/uhcsans-medium-webfont.woff") format("woff"),
+    url("./assets/fonts/uhc-sans/uhcsans-medium-webfont.ttf") format("truetype"),
+    url("./assets/fonts/uhc-sans/uhcsans-medium-webfont.svg#uhc_sansmedium")
+      format("svg");
+}
+
+@font-face {
+  font-family: "UHCSans-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./assets/fonts/uhc-sans/uhcsans-bold-webfont.eot");
+  src: url("./assets/fonts/uhc-sans/uhcsans-bold-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/uhc-sans/uhcsans-bold-webfont.woff2") format("woff2"),
+    url("./assets/fonts/uhc-sans/uhcsans-bold-webfont.woff") format("woff"),
+    url("./assets/fonts/uhc-sans/uhcsans-bold-webfont.ttf") format("truetype"),
+    url("./assets/fonts/uhc-sans/uhcsans-bold-webfont.svg#uhc_sansbold")
+      format("svg");
+}

@@ -1,0 +1,299 @@
+{
+  "palette": {
+    "primary": {
+      "main": "#196ECF"
+    },
+    "secondary": {
+      "main": "#757588"
+    },
+    "error": {
+      "main": "#B10C00"
+    },
+    "success": {
+      "main": "#007000"
+    },
+    "textPrimary": {
+      "main": "#2D2D39"
+    },
+    "textSecondary": {
+      "main": "#757588"
+    }
+  },
+  "typography": {
+    "fontFamily": "UHCSans-SemiBold",
+    "useNextVariants": true
+  },
+  "props": {
+    "MuiAppBar": {
+      "position": "static",
+      "color": "default"
+    },
+    "MuiButton": {
+      "variant": "outlined"
+    },
+    "MuiFormControl": {
+      "margin": "normal",
+      "variant": "outlined",
+      "fullWidth": true
+    },
+    "MuiInputLabel": {
+      "shrink": true
+    },
+    "MuiTextField": {
+      "variant": "outlined",
+      "margin": "dense",
+      "fullWidth": true
+    },
+    "MuiOutlinedInput": {
+      "labelWidth": 0,
+      "notched": false
+    },
+    "MuiNotchedOutline": {
+      "labelWidth": 0
+    },
+    "MuiSelect": {
+      "displayEmpty": true
+    }
+  },
+  "overrides": {
+    "MuiAppBar": {
+      "colorDefault": {
+        "backgroundColor": "#FFF"
+      }
+    },
+    "MuiBackdrop": {
+      "root": {
+        "backgroundColor": "#D8D8D8",
+        "opacity": "0.5 !important"
+      }
+    },
+    "MuiButton": {
+      "root": {
+        "font-size": "1rem",
+        "fontWeight": 600,
+        "textTransform": "capitalize",
+        "minWidth": "6.25rem"
+      },
+      "outlined": {
+        "color": "#757588"
+      },
+      "label": {
+        "pointerEvents": "none"
+      }
+    },
+    "MuiButtonBase": {
+      "root": {
+        "&$disabled": {
+          "pointerEvents": "auto",
+          "backgroundColor": "#E0E0E0",
+          "borderColor": "#E0E0E0",
+          "color": "#757588",
+          "&:hover": {
+            "cursor": "not-allowed"
+          }
+        }
+      }
+    },
+    "MuiCheckbox": {
+      "root": {
+        "&$disabled": {
+          "backgroundColor": "transparent"
+        }
+      }
+    },
+    "MuiDialog": {
+      "paper": {
+        "maxWidth": "60rem",
+        "width": "60rem"
+      }
+    },
+    "MuiDialogActions": {
+      "action": {
+        "margin": "0 .6rem"
+      },
+      "root": {
+        "margin": ".5rem 0",
+        "padding": "2rem"
+      }
+    },
+    "MuiDialogContent": {
+      "root": {
+        "padding": " 1.25rem 2rem"
+      }
+    },
+    "MuiDialogTitle": {
+      "root": {
+        "backgroundColor": "#196ECF",
+        "color": "white",
+        "fontFamily": "UHCSans-SemiBold",
+        "fontStyle": "normal",
+        "fontWeight": 500,
+        "fontSize": "1.25rem",
+        "lineHeight": 1.6,
+        "textAlign": "center",
+        "textTransform": "Uppercase",
+        "alignContent": "center",
+        "justifyContent": "center",
+        "padding": "1rem"
+      }
+    },
+    "MuiFormHelperText": {
+      "contained": {
+        "margin": ".5rem 0 0 !important"
+      },
+      "error": {
+        "color": "#E91B18 !important",
+        "font-family": "UHCSans-Medium",
+        "font-size": ".75rem",
+        "position": "absolute !important",
+        "top": "95%"
+      }
+    },
+    "MuiInputBase": {
+      "root": {
+        "color": "#757588",
+        "fontSize": "1rem",
+        "fontWeight": 500,
+        "height": "2.75rem",
+        "borderRadius": ".125rem",
+        "&$disabled": {
+          "color": "rgba(0, 0, 0, 0.38)",
+          "backgroundColor": "#f5f5f5"
+        }
+      },
+      "input": {
+        "color": "initial",
+        "&$disabled": {
+          "cursor": "not-allowed"
+        }
+      }
+    },
+    "MuiInputLabel": {
+      "root": {
+        "color": "#767588",
+        "fontFamily": "UHCSans-SemiBold",
+        "fontSize": ".875rem"
+      },
+      "formControl": {
+        "transform": "translate(0, -1.25rem) scale(1) !important;",
+        "width": "100%",
+        "display": "flex",
+        "justifyContent": "space-between"
+      }
+    },
+    "MuiListItem": {
+      "button": {
+        "&:hover": {
+          "backgroundColor": "#196ECF",
+          "color": "#FFFFFF"
+        }
+      },
+      "root": {
+        "&$selected": {
+          "backgroundColor": "#196ECF !important",
+          "color": "#FFFFFF !important"
+        }
+      },
+      "selected": {}
+    },
+    "MuiMenuItem": {
+      "gutters": {
+        "paddingBottom": ".3rem",
+        "paddingLeft": ".6rem",
+        "paddingTop": ".3rem"
+      },
+      "root": {
+        "textTransform": "capitalize"
+      }
+    },
+    "MuiOutlinedInput": {
+      "root": {
+        "&:hover:not($disabled):not($focused):not($error) $notchedOutline": {
+          "borderColor": "#196ECF"
+        },
+        "&$error": {
+          "borderColor": "#E91B18"
+        }
+      },
+      "input": {
+        "padding": ".725rem .875rem"
+      }
+    },
+    "MuiPrivateNotchedOutline": {
+      "root": {
+        "borderRadius": ".125rem",
+        "marginTop": ".25rem"
+      },
+      "legend": {
+        "display": "none"
+      }
+    },
+    "MuiRadio": {
+      "root": {
+        "&$disabled": {
+          "pointerEvents": "auto",
+          "backgroundColor": "transparent",
+          "borderColor": "#E0E0E0",
+          "color": "#757588",
+          "&:hover": {
+            "cursor": "not-allowed"
+          }
+        }
+      }
+    },
+    "MuiSelect": {
+      "select": {
+        "&$disabled": {
+          "color": "rgba(0, 0, 0, 0.38)"
+        }
+      },
+      "selectMenu": {
+        "textTransform": "capitalize"
+      }
+    },
+    "MuiStepIcon": {
+      "root": {
+        "color": "#E1E1E1"
+      },
+      "completed": {
+        "color": "#007000 !important"
+      },
+      "text": {
+        "fill": "none"
+      }
+    },
+    "MuiStepLabel": {
+      "active": {
+        "color": "#2D2D39"
+      },
+      "label": {
+        "color": "#196ECF"
+      }
+    },
+    "MuiStepConnector": {
+      "lineVertical": {
+        "borderLeftWidth": ".125rem"
+      },
+      "vertical": {
+        "padding": 0,
+        "margin-left": ".725rem"
+      }
+    },
+    "MuiSvgIcon": {
+      "root": {}
+    },
+    "MuiToolbar": {
+      "root": {
+        "height": "inherit"
+      }
+    },
+    "MuiTableCell": {
+      "root": {
+        "padding": ".25rem 1.5rem .25rem 1.5rem"
+      },
+      "body": {
+        "color": "#2D2D39"
+      }
+    }
+  }
+}

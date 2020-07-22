@@ -1,0 +1,23 @@
+@import "assets/fonts/font.scss";
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "UHCSans-Regular";
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.remove-input-x-symbol-ie {
+    input::-ms-clear {
+        display: none;
+    }
+}
+
+.fee_table tbody tr:nth-child(odd) {
+    background-color: #fafafa !important
+}

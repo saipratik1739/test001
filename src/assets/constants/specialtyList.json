@@ -1,0 +1,2342 @@
+[
+  {
+    "shrt_description": "ACUPNCTRE",
+    "description": "ACU",
+    "full_description": "ACUPUNCTURE",
+    "code": "201",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ADDICTION",
+    "description": "ADE",
+    "full_description": "ADDICTION MEDICINE",
+    "code": "347",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ADCTN MED",
+    "description": "AMS",
+    "full_description": "ADDICTION MEDICINE SPECIALISTS",
+    "code": "331",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ADDCPSYTRY",
+    "description": "ADP",
+    "full_description": "ADDICTION PSYCHIATRY",
+    "code": "301",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ADSCNT MED",
+    "description": "ADL",
+    "full_description": "ADOLESCENT MEDICINE",
+    "code": "276",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PSYCH NUR",
+    "description": "PNS",
+    "full_description": "ADVANCED PRACTICE REGISTERED PSYCHIATRIC NURSE SP",
+    "code": "374",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "ADV PRACT",
+    "description": "RNP",
+    "full_description": "ADVANCED REGISTERED NURSE PRACTITIONER",
+    "code": "375",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "AERO MED",
+    "description": "AM",
+    "full_description": "AEROSPACE MEDICINE",
+    "code": "041",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ALC DRUG",
+    "description": "ADC",
+    "full_description": "ALCOHOL & DRUG COUNSELOR",
+    "code": "377",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ALLERGY",
+    "description": "A",
+    "full_description": "ALLERGY",
+    "code": "252",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ALLER+IMM",
+    "description": "AI",
+    "full_description": "ALLERGY AND IMMUNOLOGY",
+    "code": "003",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "AMBSURGERY",
+    "description": "ASC",
+    "full_description": "AMBULATORY SURGERY (HOSP BASED)",
+    "code": "400",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "A+CLINPATH",
+    "description": "APL",
+    "full_description": "ANATOMIC & CLINICAL PATHOLOGY",
+    "code": "203",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ANTMC PATH",
+    "description": "ATP",
+    "full_description": "ANATOMIC PATHOLOGY",
+    "code": "202",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ANES ASST",
+    "description": "ANA",
+    "full_description": "ANESTHESIOLOGIST ASSISTANT",
+    "code": "058",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ANESTHESIA",
+    "description": "AN",
+    "full_description": "ANESTHESIOLOGY",
+    "code": "005",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ARTHROSCOPY",
+    "description": "ATY",
+    "full_description": "ARTHROSCOPY",
+    "code": "401",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "AUDIOLOGY",
+    "description": "AUD",
+    "full_description": "AUDIOLOGY",
+    "code": "205",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HEARING",
+    "description": "AUH",
+    "full_description": "AUDIOLOGY/HEARING",
+    "code": "404",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "BA AUTISM",
+    "description": "BHA",
+    "full_description": "BEHAVIORAL ANALYST - AUTISM",
+    "code": "300",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CARD DIAG",
+    "description": "CAR",
+    "full_description": "CARDIAC DIAGNOSTIC",
+    "code": "513",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CARD REHAB",
+    "description": "CRE",
+    "full_description": "CARDIAC REHAB",
+    "code": "245",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CARD SURG",
+    "description": "CSR",
+    "full_description": "CARDIAC SURGERY",
+    "code": "405",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CARDIOLOGY",
+    "description": "C",
+    "full_description": "CARDIOLOGY",
+    "code": "012",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CARDIOVASC",
+    "description": "CD",
+    "full_description": "CARDIOVASCULAR DISEASE",
+    "code": "006",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CARDV SURG",
+    "description": "CVS",
+    "full_description": "CARDIOVASCULAR SURGERY",
+    "code": "500",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CER DIA ED",
+    "description": "DED",
+    "full_description": "CERTIFIED DIABETIC EDUCATOR",
+    "code": "027",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CER NUR MW",
+    "description": "NW",
+    "full_description": "CERTIFIED NURSE MIDWIFE",
+    "code": "069",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "CERT MIDW",
+    "description": "CMW",
+    "full_description": "CERTIFIED OR LICENSED MIDWIFE",
+    "code": "111",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "CER SUR ASST",
+    "description": "CSA",
+    "full_description": "CERTIFIED SURGICAL ASSISTANT",
+    "code": "084",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CHEM PATH",
+    "description": "CMP",
+    "full_description": "CHEMICAL PATHOLOGY",
+    "code": "207",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CHEMO",
+    "description": "CMT",
+    "full_description": "CHEMOTHERAPY",
+    "code": "412",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CHST THER",
+    "description": "CRT",
+    "full_description": "CHEST AND RESPIRATORY THERAPY",
+    "code": "075",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ADL PSYCH",
+    "description": "PSA",
+    "full_description": "CHILD & ADOLESCENT PSYCHIATRY",
+    "code": "257",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CHLD NEURO",
+    "description": "PDN",
+    "full_description": "CHILD NEUROLOGY",
+    "code": "262",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CHLD PSYC",
+    "description": "PPY",
+    "full_description": "CHILD PSYCHOLOGY",
+    "code": "268",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CHIRO MED",
+    "description": "CM",
+    "full_description": "CHIROPRACTIC MEDICINE",
+    "code": "035",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CI NRS SP",
+    "description": "CNS",
+    "full_description": "CLIN NURSE SPECIALIST (NON BEHAVIORAL)",
+    "code": "110",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "CLN BIO GN",
+    "description": "CBG",
+    "full_description": "CLINICAL BIOCHEMICAL GENETICS",
+    "code": "305",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLN BIO MO",
+    "description": "CBM",
+    "full_description": "CLINICAL BIOCHEMICAL/MOLECULAR GENETICS",
+    "code": "306",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLN CAR EL",
+    "description": "CDE",
+    "full_description": "CLINICAL CARDIAC ELECTROPHYSIOLOGY",
+    "code": "304",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLN CYTO",
+    "description": "CCG",
+    "full_description": "CLINICAL CYTOGENETICS",
+    "code": "307",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLN GNTCS",
+    "description": "CGT",
+    "full_description": "CLINICAL GENETICS",
+    "code": "308",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MOL GENETI",
+    "description": "CMG",
+    "full_description": "CLINICAL MOLECULAR GENETICS",
+    "code": "370",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLN NEUPHY",
+    "description": "CNY",
+    "full_description": "CLINICAL NEUROPHYSIOLOGY",
+    "code": "310",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLIN PATH",
+    "description": "CLP",
+    "full_description": "CLINICAL PATHOLOGY",
+    "code": "210",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLIN PHARM",
+    "description": "PA",
+    "full_description": "CLINICAL PHARMACOLOGY",
+    "code": "211",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CLIN PSY",
+    "description": "PYG",
+    "full_description": "CLINICAL PSYCHOLOGY",
+    "code": "070",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MED SOC",
+    "description": "CSW",
+    "full_description": "CLINICAL/MEDICAL SOCIAL WORKER",
+    "code": "063",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "COL + RECT",
+    "description": "CRS",
+    "full_description": "COLON AND RECTAL SURGERY",
+    "code": "015",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "COROINTENS",
+    "description": "CIC",
+    "full_description": "CORONARY INTENSIVE CARE",
+    "code": "448",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CORO INTERV",
+    "description": "CI",
+    "full_description": "CORONARY INTERVENTIONS",
+    "code": "449",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CRIT CARE",
+    "description": "CRI",
+    "full_description": "CRITICAL CARE",
+    "code": "427",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CRTCL CARE",
+    "description": "CCM",
+    "full_description": "CRITICAL CARE MEDICINE",
+    "code": "214",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "CYTOPATH",
+    "description": "CPY",
+    "full_description": "CYTOPATHOLOGY",
+    "code": "312",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DENTAL MED",
+    "description": "DM",
+    "full_description": "DENTAL MEDICINE",
+    "code": "050",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DERMATLGY",
+    "description": "D",
+    "full_description": "DERMATOLOGY",
+    "code": "007",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DERMATOPA",
+    "description": "DMP",
+    "full_description": "DERMATOPATHOLOGY",
+    "code": "218",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DIABETES",
+    "description": "DIA",
+    "full_description": "DIABETES",
+    "code": "278",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DIA RD NUC",
+    "description": "DRN",
+    "full_description": "DIAG RAD WITH SPECIAL COMPETENCE IN NUCLEAR RAD",
+    "code": "345",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DIAG RAD",
+    "description": "DR",
+    "full_description": "DIAGNOSTIC RADIOLOGY",
+    "code": "220",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DIGEST DIS",
+    "description": "DD",
+    "full_description": "DIGESTIVE DISEASES",
+    "code": "509",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DME ORTHO",
+    "description": "DOP",
+    "full_description": "DME ORTHOTICS/PROSTHETICS ONLY",
+    "code": "235",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NAPROPATHY",
+    "description": "DNP",
+    "full_description": "DOCTOR OF NAPROPATHY",
+    "code": "383",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NATUROPATH",
+    "description": "DNT",
+    "full_description": "DOCTOR OF NATUROPATHY",
+    "code": "384",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "DOULA",
+    "description": "DOU",
+    "full_description": "DOULA",
+    "code": "137",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "EARLY INTVNT",
+    "description": "EIN",
+    "full_description": "EARLY INTERVENTION",
+    "code": "122",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ELECTROPHY",
+    "description": "ELP",
+    "full_description": "ELECTROPHYSIOLOGY",
+    "code": "452",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "EMERG MED",
+    "description": "EM",
+    "full_description": "EMERGENCY MEDICINE",
+    "code": "042",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ENDOCRIN",
+    "description": "END",
+    "full_description": "ENDOCRINOLOGY, DIABETES, AND METABOLISM",
+    "code": "017",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ENDODNTCS",
+    "description": "ENT",
+    "full_description": "ENDODONTICS",
+    "code": "051",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "FM NUR PRC",
+    "description": "FNP",
+    "full_description": "FAMILY NURSE PRACTITIONER",
+    "code": "339",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "FAMILY PLAN",
+    "description": "FPN",
+    "full_description": "FAMILY PLANNING",
+    "code": "123",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "FAM PRAC",
+    "description": "FP",
+    "full_description": "FAMILY PRACTICE",
+    "code": "008",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "FM PRC SPC",
+    "description": "FPS",
+    "full_description": "FAMILY PRACTICE SPECIALIST",
+    "code": "275",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "FOR PATH",
+    "description": "FOP",
+    "full_description": "FORENSIC PATHOLOGY",
+    "code": "223",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GASTRO",
+    "description": "GE",
+    "full_description": "GASTROENTEROLOGY",
+    "code": "010",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GEN PRAC",
+    "description": "GP",
+    "full_description": "GENERAL PRACTICE",
+    "code": "001",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GN PRC SPC",
+    "description": "GPS",
+    "full_description": "GENERAL PRACTICE SPECIALIST",
+    "code": "272",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "VASC SURG",
+    "description": "CDS",
+    "full_description": "GENERAL VASCULAR SURGERY",
+    "code": "095",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GNTC COUNS",
+    "description": "GNC",
+    "full_description": "GENETIC COUNSELOR",
+    "code": "320",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GER MED",
+    "description": "GER",
+    "full_description": "GERIATRIC MEDICINE",
+    "code": "038",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GER PSYCH",
+    "description": "GEP",
+    "full_description": "GERIATRIC PSYCHIATRY",
+    "code": "314",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GYN ONC",
+    "description": "GO",
+    "full_description": "GYNECOLOGIC ONCOLOGY",
+    "code": "221",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "GYNECOLOGY",
+    "description": "GYN",
+    "full_description": "GYNECOLOGY",
+    "code": "251",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HAND SURG",
+    "description": "HS",
+    "full_description": "HAND SURGERY",
+    "code": "040",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HEAR INSTR",
+    "description": "HRS",
+    "full_description": "HEARING INSTRUMENT SPECIALIST",
+    "code": "298",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HEART TRANS",
+    "description": "HRT",
+    "full_description": "HEART TRANSPLANT",
+    "code": "455",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HEMATOLOGY",
+    "description": "HEM",
+    "full_description": "HEMATOLOGY",
+    "code": "093",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HEM/ONC",
+    "description": "HO",
+    "full_description": "HEMATOLOGY/ONCOLOGY",
+    "code": "504",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HIGH RISK",
+    "description": "HRP",
+    "full_description": "HIGH RISK PREGNANCY",
+    "code": "353",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HIPPOTX",
+    "description": "HTX",
+    "full_description": "HIPPOTHERAPY",
+    "code": "071",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HOMEOPATHY",
+    "description": "HOM",
+    "full_description": "HOMEOPATHY",
+    "code": "282",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HOSPICEFS",
+    "description": "HOP",
+    "full_description": "HOSPICE (HOSP BASED)",
+    "code": "411",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HSPCE&PLTV",
+    "description": "HPM",
+    "full_description": "HOSPICE AND PALLIATIVE MEDICINE",
+    "code": "019",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HOSPICE",
+    "description": "HSP",
+    "full_description": "HOSPICE(NON HOSPITAL)",
+    "code": "044",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "HSPTLST",
+    "description": "HOS",
+    "full_description": "HOSPITALIST",
+    "code": "340",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "IMMUNOLOGY",
+    "description": "IG",
+    "full_description": "IMMUNOLOGY",
+    "code": "283",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "IMMUNOPATH",
+    "description": "IP",
+    "full_description": "IMMUNOPATHOLOGY",
+    "code": "225",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "INFECT MED",
+    "description": "ID",
+    "full_description": "INFECTIOUS DISEASE MEDICINE",
+    "code": "080",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "IP SURGERY",
+    "description": "IPS",
+    "full_description": "INPATIENT SURGERY",
+    "code": "438",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MEDS PEDS",
+    "description": "MPD",
+    "full_description": "INTERNAL MED PEDIATRICS",
+    "code": "079",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "INTERN MED",
+    "description": "IM",
+    "full_description": "INTERNAL MEDICINE",
+    "code": "011",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "INT MD SPC",
+    "description": "IMS",
+    "full_description": "INTERNAL MEDICINE SPECIALIST",
+    "code": "273",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "INTVNL CAR",
+    "description": "IVC",
+    "full_description": "INTERVENTIONAL CARDIOLOGY",
+    "code": "342",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "INTER RAD",
+    "description": "IR",
+    "full_description": "INTERVENTIONAL RADIOLOGY",
+    "code": "124",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "INTEST TRANS",
+    "description": "ITT",
+    "full_description": "INTESTINAL TRANSPLANT",
+    "code": "458",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "JT REPLACE",
+    "description": "JTR",
+    "full_description": "JOINT REPLACEMENT",
+    "code": "459",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "KIDNEY TRANS",
+    "description": "KID",
+    "full_description": "KIDNEY TRANSPLANT",
+    "code": "460",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LACTATION",
+    "description": "LAC",
+    "full_description": "LACTATION SPECIALIST",
+    "code": "380",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LARYNGOLOG",
+    "description": "LAR",
+    "full_description": "LARYNGOLOGY",
+    "code": "284",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LEGAL MED",
+    "description": "LM",
+    "full_description": "LEGAL MEDICINE",
+    "code": "285",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LIC PRA NU",
+    "description": "LPN",
+    "full_description": "LICENSED PRACTICAL NURSE",
+    "code": "065",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LIC COUNS",
+    "description": "LPC",
+    "full_description": "LICENSED PROFESSIONAL COUNSELOR",
+    "code": "381",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LITHOTRPSY",
+    "description": "LIT",
+    "full_description": "LITHOTRIPSY",
+    "code": "512",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LIVER TRANS",
+    "description": "LIV",
+    "full_description": "LIVER TRANSPLANT",
+    "code": "461",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "LUNG TRANS",
+    "description": "LUN",
+    "full_description": "LUNG TRANSPLANT",
+    "code": "462",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MAMMOGRAPHY",
+    "description": "MAM",
+    "full_description": "MAMMOGRAPHY",
+    "code": "495",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MRG & FAM",
+    "description": "MFT",
+    "full_description": "MARRIAGE AND FAMILY THERAPY",
+    "code": "318",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MASS THER",
+    "description": "MTH",
+    "full_description": "MASSAGE THERAPY",
+    "code": "514",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MTNL FETAL",
+    "description": "MFM",
+    "full_description": "MATERNAL & FETAL MED/PERINATOLOGY",
+    "code": "226",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MED GNTCS",
+    "description": "MGT",
+    "full_description": "MEDICAL GENETICS",
+    "code": "309",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MED ONC",
+    "description": "ON",
+    "full_description": "MEDICAL ONCOLOGY",
+    "code": "059",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MED REHAB",
+    "description": "MRE",
+    "full_description": "MEDICAL REHABILITATION",
+    "code": "045",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MED TOXIC",
+    "description": "MET",
+    "full_description": "MEDICAL TOXICOLOGY",
+    "code": "333",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MHSA",
+    "description": "MEN",
+    "full_description": "MENTAL HEALTH/SUBSTANCE ABUSE",
+    "code": "417",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MOL GNPTH",
+    "description": "MGP",
+    "full_description": "MOLECULAR GENETIC PATHOLOGY",
+    "code": "371",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "MVMT DSORD",
+    "description": "MDS",
+    "full_description": "MOVEMENT DISORDERS",
+    "code": "249",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEOINTENSV",
+    "description": "NIC",
+    "full_description": "NEONATAL INTENSIVE CARE",
+    "code": "429",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEONTLGY",
+    "description": "NPM",
+    "full_description": "NEONATOLOGY",
+    "code": "087",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEOPLASTIC",
+    "description": "NPD",
+    "full_description": "NEOPLASTIC DISEASES",
+    "code": "502",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEPHROLOGY",
+    "description": "NEP",
+    "full_description": "NEPHROLOGY",
+    "code": "039",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEURO DSBL",
+    "description": "NDD",
+    "full_description": "NEURODEVELOPMENTAL DISABILITIES",
+    "code": "343",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEURO SURG",
+    "description": "NS",
+    "full_description": "NEUROLOGICAL SURGERY",
+    "code": "014",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEUROLOGY",
+    "description": "N",
+    "full_description": "NEUROLOGY",
+    "code": "013",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEURO PSY",
+    "description": "NPS",
+    "full_description": "NEUROLOGY AND PSYCHIATRY",
+    "code": "228",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEUROMSCLR",
+    "description": "NDM",
+    "full_description": "NEUROMUSCULAR MEDICINE",
+    "code": "269",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEURO PTH",
+    "description": "NE",
+    "full_description": "NEUROPATHOLOGY",
+    "code": "229",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEUROPSYCH",
+    "description": "NSY",
+    "full_description": "NEUROPSYCHOLOGY",
+    "code": "397",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NEURO RAD",
+    "description": "NER",
+    "full_description": "NEURORADIOLOGY",
+    "code": "332",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NUC CARDIO",
+    "description": "NCR",
+    "full_description": "NUCLEAR CARDIOLOGY",
+    "code": "016",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NUC MED",
+    "description": "NM",
+    "full_description": "NUCLEAR MEDICINE",
+    "code": "036",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NUC RAD",
+    "description": "NR",
+    "full_description": "NUCLEAR RADIOLOGY",
+    "code": "286",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "NURSE ANES",
+    "description": "NA",
+    "full_description": "NURSE ANESTHETIST",
+    "code": "068",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "NURSE PRAC",
+    "description": "NP",
+    "full_description": "NURSE PRACTITIONER",
+    "code": "077",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "MENT PRACT",
+    "description": "CSE",
+    "full_description": "NURSE PRACTITIONER, CLINICAL SPECIALIST IN MENTAL",
+    "code": "387",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "MENT NURSE",
+    "description": "CME",
+    "full_description": "NURSE, CLINICAL SPECIALIST IN MENTAL HEALTH",
+    "code": "385",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "NTRN SVCS",
+    "description": "NTR",
+    "full_description": "NUTRITION SERVICES",
+    "code": "089",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OBSTETRICS",
+    "description": "OBS",
+    "full_description": "OBSTETRICS",
+    "code": "250",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OBGYN",
+    "description": "OBG",
+    "full_description": "OBSTETRICS AND GYNECOLOGY",
+    "code": "230",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OCC MED",
+    "description": "OM",
+    "full_description": "OCCUPATIONAL MEDICINE",
+    "code": "231",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OCC THERAP",
+    "description": "OTH",
+    "full_description": "OCCUPATIONAL THERAPY",
+    "code": "061",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OCU PROSTH",
+    "description": "OCP",
+    "full_description": "OCULAR PROSTHETICS",
+    "code": "499",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OPHTHAL",
+    "description": "OPH",
+    "full_description": "OPHTHALMOLOGY",
+    "code": "018",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OPTICIAN",
+    "description": "OPT",
+    "full_description": "OPTICIAN",
+    "code": "109",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OPTOMETRY",
+    "description": "OPY",
+    "full_description": "OPTOMETRY",
+    "code": "076",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ORAL & MAX",
+    "description": "MFS",
+    "full_description": "ORAL AND MAXILLOFACIAL SURGERY",
+    "code": "092",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ORAL PATH",
+    "description": "ORP",
+    "full_description": "ORAL PATHOLOGY",
+    "code": "232",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OROFCL SUR",
+    "description": "OOF",
+    "full_description": "ORO FACIAL PLASTIC SURGERY",
+    "code": "233",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ORTHDNTCS",
+    "description": "ORD",
+    "full_description": "ORTHODONTICS",
+    "code": "052",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ORTHO SURG",
+    "description": "ORS",
+    "full_description": "ORTHOPEDIC SURGERY",
+    "code": "020",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ORTH PRSTH",
+    "description": "OPR",
+    "full_description": "ORTHOTICS PROSTHETICS",
+    "code": "108",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OST MPLTV",
+    "description": "OMM",
+    "full_description": "OSTEOPATHIC MANIPULATIVE MEDICINE",
+    "code": "330",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OTOLARYNG",
+    "description": "OTO",
+    "full_description": "OTOLARYNGOLOGY",
+    "code": "004",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "OTO NEU",
+    "description": "OT",
+    "full_description": "OTOLOGY AND NEUROTOLOGY",
+    "code": "254",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PAIN MGMT",
+    "description": "PMG",
+    "full_description": "PAIN MANAGEMENT",
+    "code": "319",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PANC TRANS",
+    "description": "PCT",
+    "full_description": "PANCREAS TRANSPLANT",
+    "code": "469",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PATHOLOGY",
+    "description": "PTH",
+    "full_description": "PATHOLOGY",
+    "code": "022",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED ADSCNT",
+    "description": "PAD",
+    "full_description": "PEDIATRIC ADOLESCENT",
+    "code": "258",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED ALLERG",
+    "description": "PDA",
+    "full_description": "PEDIATRIC ALLERGY IMMUNOLOGY",
+    "code": "086",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED ANES",
+    "description": "PAN",
+    "full_description": "PEDIATRIC ANESTHESIOLOGY",
+    "code": "116",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED CARDIO",
+    "description": "PDC",
+    "full_description": "PEDIATRIC CARDIOLOGY",
+    "code": "085",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED CAR TH",
+    "description": "PCS",
+    "full_description": "PEDIATRIC CARDIOTHORACIC SURGERY",
+    "code": "505",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED CRTCL",
+    "description": "PCC",
+    "full_description": "PEDIATRIC CRITICAL CARE MEDICINE",
+    "code": "234",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED DERM",
+    "description": "PDM",
+    "full_description": "PEDIATRIC DERMATOLOGY",
+    "code": "117",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED DVLP",
+    "description": "PDL",
+    "full_description": "PEDIATRIC DEVELOPMENTAL & BEHAVIORAL",
+    "code": "255",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED EME MD",
+    "description": "PEM",
+    "full_description": "PEDIATRIC EMERGENCY MEDICINE",
+    "code": "321",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED ENDO",
+    "description": "PDE",
+    "full_description": "PEDIATRIC ENDOCRINOLOGY",
+    "code": "082",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED GASTRO",
+    "description": "PGS",
+    "full_description": "PEDIATRIC GASTROENTEROLOGY",
+    "code": "259",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED GNTCS",
+    "description": "PDG",
+    "full_description": "PEDIATRIC GENETICS",
+    "code": "260",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED HEM ON",
+    "description": "PHO",
+    "full_description": "PEDIATRIC HEMATOLOGY ONCOLOGY",
+    "code": "088",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED INFECT",
+    "description": "PID",
+    "full_description": "PEDIATRIC INFECTIOUS DISEASE MEDICINE",
+    "code": "078",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED NEPH",
+    "description": "PNP",
+    "full_description": "PEDIATRIC NEPHROLOGY",
+    "code": "031",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED NEUSUR",
+    "description": "NSP",
+    "full_description": "PEDIATRIC NEUROSURGERY",
+    "code": "081",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED NURPRA",
+    "description": "PNT",
+    "full_description": "PEDIATRIC NURSE PRACTITIONER",
+    "code": "389",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "PED NUTR",
+    "description": "PEN",
+    "full_description": "PEDIATRIC NUTRITION",
+    "code": "120",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED OCC THPY",
+    "description": "PDO",
+    "full_description": "PEDIATRIC OCCUPATIONAL THERAPY",
+    "code": "119",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED OR SUR",
+    "description": "POS",
+    "full_description": "PEDIATRIC ORTHOPAEDIC SURGERY",
+    "code": "264",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED OTOLAR",
+    "description": "POT",
+    "full_description": "PEDIATRIC OTOLARYNGOLOGY",
+    "code": "265",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED PATH",
+    "description": "PPA",
+    "full_description": "PEDIATRIC PATHOLOGY",
+    "code": "322",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED PLS SU",
+    "description": "PPS",
+    "full_description": "PEDIATRIC PLASTIC SURGERY",
+    "code": "266",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED PLMNRY",
+    "description": "PDP",
+    "full_description": "PEDIATRIC PULMONARY MEDICINE",
+    "code": "096",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED RAD",
+    "description": "PDR",
+    "full_description": "PEDIATRIC RADIOLOGY",
+    "code": "288",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED REHAB",
+    "description": "PRM",
+    "full_description": "PEDIATRIC REHABILITATION MEDICINE",
+    "code": "341",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED RHEUM",
+    "description": "PRU",
+    "full_description": "PEDIATRIC RHEUMATOLOGY",
+    "code": "261",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED SPCH PATH",
+    "description": "PSH",
+    "full_description": "PEDIATRIC SPEECH PATHOLOGY",
+    "code": "115",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED SPRTS",
+    "description": "PSN",
+    "full_description": "PEDIATRIC SPORTS MEDICINE",
+    "code": "323",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED SURG",
+    "description": "PDS",
+    "full_description": "PEDIATRIC SURGERY",
+    "code": "114",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED URO",
+    "description": "PDU",
+    "full_description": "PEDIATRIC UROLOGY",
+    "code": "267",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PEDIATRICS",
+    "description": "PD",
+    "full_description": "PEDIATRICS",
+    "code": "037",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PED SPCLST",
+    "description": "PSP",
+    "full_description": "PEDIATRICS SPECIALIST",
+    "code": "274",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PEDODNTCS",
+    "description": "PDT",
+    "full_description": "PEDODONTICS",
+    "code": "053",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PERIDNTCS",
+    "description": "PRT",
+    "full_description": "PERIODONTICS",
+    "code": "054",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHARMACIST",
+    "description": "PHC",
+    "full_description": "PHARMACIST",
+    "code": "212",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHARMACY",
+    "description": "PHM",
+    "full_description": "PHARMACY",
+    "code": "047",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHLEBOLOGY",
+    "description": "PHE",
+    "full_description": "PHLEBOLOGY",
+    "code": "396",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHYS MED",
+    "description": "PM",
+    "full_description": "PHYSICAL MEDICINE AND REHABILITATION",
+    "code": "025",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHYS THER",
+    "description": "PT",
+    "full_description": "PHYSICAL THERAPY",
+    "code": "073",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHYS DISAB",
+    "description": "PDY",
+    "full_description": "PHYSICAL THERAPY DISAB",
+    "code": "431",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHYS PED",
+    "description": "PTP",
+    "full_description": "PHYSICAL THERAPY-PEDIATRIC",
+    "code": "367",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PHYS ASST",
+    "description": "PHA",
+    "full_description": "PHYSICIAN ASSISTANT",
+    "code": "338",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "PA BEHAV",
+    "description": "PAM",
+    "full_description": "PHYSICIAN ASST BEHAVIORAL",
+    "code": "112",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "PLAST SURG",
+    "description": "PS",
+    "full_description": "PLASTIC SURGERY",
+    "code": "024",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PLS SURG",
+    "description": "PLS",
+    "full_description": "PLASTIC SURGERY WITHIN THE HEAD & NECK",
+    "code": "337",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PODIATRY",
+    "description": "POD",
+    "full_description": "PODIATRY",
+    "code": "048",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PREV MED",
+    "description": "GPM",
+    "full_description": "PREVENTIVE MEDICINE",
+    "code": "281",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PROCTOLOGY",
+    "description": "PRC",
+    "full_description": "PROCTOLOGY",
+    "code": "028",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PROSDNTCS",
+    "description": "PST",
+    "full_description": "PROSTHODONTICS",
+    "code": "055",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PSYCH SW",
+    "description": "PSW",
+    "full_description": "PSYCH SOCIAL WORKER",
+    "code": "009",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PSYCH NRS",
+    "description": "PN",
+    "full_description": "PSYCHIATRIC NURSE SPECIALIST",
+    "code": "329",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "PSYCHIATRY",
+    "description": "P",
+    "full_description": "PSYCHIATRY",
+    "code": "026",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PSY ANALYS",
+    "description": "PYA",
+    "full_description": "PSYCHOANALYSIS",
+    "code": "237",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "PULMONARY",
+    "description": "PUD",
+    "full_description": "PULMONARY MEDICINE",
+    "code": "029",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "RAD ONC",
+    "description": "ROC",
+    "full_description": "RADIATION ONCOLOGY",
+    "code": "032",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "ISOTPC RAD",
+    "description": "RIR",
+    "full_description": "RADIOISOTOPIC RADIOLOGY",
+    "code": "503",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "RADIO PHYS",
+    "description": "RPY",
+    "full_description": "RADIOLOGICAL PHYSICS",
+    "code": "324",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "RADIOLOGY",
+    "description": "R",
+    "full_description": "RADIOLOGY",
+    "code": "030",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "FIRST ASST",
+    "description": "RFA",
+    "full_description": "REGISTERED FIRST ASSISTANT NURSE",
+    "code": "386",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "REG NURSE",
+    "description": "RN",
+    "full_description": "REGISTERED NURSE",
+    "code": "064",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "RN ANES",
+    "description": "RNA",
+    "full_description": "REGISTERED NURSE ANESTHETIST",
+    "code": "395",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "REG SOCIAL",
+    "description": "REG",
+    "full_description": "REGISTERED SOCIAL WORKER",
+    "code": "390",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "REHAB MED",
+    "description": "RM",
+    "full_description": "REHABILITATIVE MEDICINE",
+    "code": "253",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "REP ENDO",
+    "description": "REN",
+    "full_description": "REPRODUCTIVE ENDOCRINOLOGY",
+    "code": "241",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "RHEUMTLGY",
+    "description": "RHU",
+    "full_description": "RHEUMATOLOGY",
+    "code": "090",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "RHINOLOGY",
+    "description": "RHI",
+    "full_description": "RHINOLOGY",
+    "code": "292",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SLEEP STUD",
+    "description": "SLS",
+    "full_description": "SLEEP STUDY",
+    "code": "361",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SPCH PATH",
+    "description": "SPT",
+    "full_description": "SPEECH PATHOLOGY",
+    "code": "246",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SPEECH THE",
+    "description": "SP",
+    "full_description": "SPEECH THERAPY",
+    "code": "074",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SPNL CRD",
+    "description": "SCI",
+    "full_description": "SPINAL CORD INJURY MEDICINE",
+    "code": "344",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SPINE SURG",
+    "description": "SPS",
+    "full_description": "SPINE SURGERY",
+    "code": "477",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SPORTS MED",
+    "description": "SPM",
+    "full_description": "SPORTS MEDICINE",
+    "code": "296",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SURGERY",
+    "description": "GS",
+    "full_description": "SURGERY",
+    "code": "002",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SURG ABDMN",
+    "description": "ABS",
+    "full_description": "SURGERY ABDOMINAL",
+    "code": "270",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SUR HD NCK",
+    "description": "HNS",
+    "full_description": "SURGERY HEAD AND NECK",
+    "code": "271",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SURG CRIT",
+    "description": "SCC",
+    "full_description": "SURGICAL CRITICAL CARE",
+    "code": "242",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SURG ONC",
+    "description": "SO",
+    "full_description": "SURGICAL ONCOLOGISTS",
+    "code": "508",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "SURG TECH",
+    "description": "SAN",
+    "full_description": "SURGICAL TECHNICIAN",
+    "code": "393",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": true
+  },
+  {
+    "shrt_description": "THERA RAD",
+    "description": "TR",
+    "full_description": "THERAPEUTIC RADIOLOGY",
+    "code": "239",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "THOR CAR",
+    "description": "TCS",
+    "full_description": "THORACIC CARDIOVASCULAR SURGERY",
+    "code": "033",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "THOR SURG",
+    "description": "TS",
+    "full_description": "THORACIC SURGERY",
+    "code": "101",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "TRNS HEPAT",
+    "description": "THP",
+    "full_description": "TRANSPLANT HEPATOLOGY",
+    "code": "105",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "TRAUM SURG",
+    "description": "TRS",
+    "full_description": "TRAUMA SURGERY",
+    "code": "293",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "UND & HYP",
+    "description": "UHM",
+    "full_description": "UNDERSEA AND HYPERBARIC MEDICINE",
+    "code": "327",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "UNDERSEA",
+    "description": "USM",
+    "full_description": "UNDERSEA MEDICINE",
+    "code": "372",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "URG CARE",
+    "description": "UCA",
+    "full_description": "URGENT CARE MEDICINE",
+    "code": "328",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "UROLOGY",
+    "description": "U",
+    "full_description": "UROLOGY",
+    "code": "034",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "VASC INTERV",
+    "description": "VI",
+    "full_description": "VASCULAR INTERVENTION",
+    "code": "478",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "VASC INTVN",
+    "description": "VIR",
+    "full_description": "VASCULAR INTERVENTION RADIOLOGY",
+    "code": "335",
+    "active_ind": "A",
+    "mpp_recognized": true,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "VASC SURG",
+    "description": "VS",
+    "full_description": "VASCULAR SURGERY",
+    "code": "479",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  },
+  {
+    "shrt_description": "WOUND CARE",
+    "description": "WC",
+    "full_description": "WOUND CARE",
+    "code": "480",
+    "active_ind": "A",
+    "mpp_recognized": false,
+    "midLevel": false
+  }
+]

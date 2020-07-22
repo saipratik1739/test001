@@ -1,0 +1,63 @@
+{
+  "name": "contract-poc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "3.9.2",
+    "@material-ui/icons": "3.0.2",
+    "@material-ui/styles": "3.0.0-alpha.10",
+    "babel-polyfill": "6.26.0",
+    "cross-env": "5.2.0",
+    "enzyme-to-json": "3.3.5",
+    "jest": "23.6.0",
+    "lodash": "4.17.11",
+    "moment": "2.27.0",
+    "node-sass": "4.11.0",
+    "pdfmake": "0.1.66",
+    "qs": "6.6.0",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-input-mask": "2.0.4",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.1.8",
+    "react-test-renderer": "16.7.0",
+    "react-text-mask": "5.4.3",
+    "react-virtualized": "9.21.1",
+    "rxjs": "6.4.0",
+    "save": "2.3.3"
+  },
+  "setupFiles": [
+    "<rootDir>/src/setupTests.js"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "export GENERATE_SOURCEMAP=false && react-scripts build",
+    "test": "react-scripts test --env=jsdom --collectCoverageFrom=src/app/**/*js --collectCoverageFrom=!src/app/environment/** --collectCoverageFrom=!src/app/state/** --collectCoverageFrom=!src/app/ui-services/** --collectCoverageFrom=!src/app/routing/**",
+    "eject": "react-scripts eject",
+    "start-build": "export NODE_ENV=production && export GENERATE_SOURCEMAP=false && npm run build && cross-env && forever server.js",
+    "start-ocp": "cross-env && forever server.js",
+    "start-dev": "export NODE_ENV=development && export PORT=4001 && forever server.js",
+    "start-dev-win": "set NODE_ENV=development&& set PORT=4001&& forever server.js",
+    "test-coverage": "npm run test -- --coverage",
+    "generate": "plop"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@babel/core": "7.3.4",
+    "@babel/preset-env": "7.3.4",
+    "axios-mock-adapter": "1.16.0",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-plugin-transform-react-jsx": "6.24.1",
+    "enzyme": "3.8.0",
+    "enzyme-adapter-react-16": "1.7.1",
+    "plop": "2.4.0"
+  }
+}
